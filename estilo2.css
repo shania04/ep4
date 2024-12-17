@@ -1,0 +1,44 @@
+body {
+    background-color: #ffc0cb; /* Fondo rosado */
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: #4b0082; /* Título morado */
+  }
+  
+  p {
+    font-size: 16px;
+  }
+  
+  label {
+    display: block;
+    margin: 10px 0 5px;
+    font-size: 14px;
+    color: #4b0082; /* Etiquetas moradas */
+  }
+  
+  input {
+    padding: 8px;
+    margin-bottom: 10px;
+    width: 100%;
+    max-width: 300px;
+    border: 1px solid #4b0082; /* Borde morado */
+    border-radius: 5px;
+    font-size: 14px;
+    color: #4b0082; /* Texto morado */
+  }
+  
+  ul {
+    margin-top: 20px;
+    padding-left: 20px;
+  }
+  
+  ul li {
+    font-size: 16px;
+    color: #333;
+  }
+  
